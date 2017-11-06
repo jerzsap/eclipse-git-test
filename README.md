@@ -1,1 +1,1 @@
-# eclipse-git-test (... local modifications ...)
+# eclipse-git-test
